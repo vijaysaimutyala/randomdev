@@ -40,7 +40,7 @@ baseurl: "/randomdev" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     twitter: iamvijaysai
-    github: iamvijaysai
+    github: vijaysaimutyala
 
 # Set this to true to get LaTeX math equation support
 use_math: 
